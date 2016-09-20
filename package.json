@@ -1,0 +1,19 @@
+{
+  "name": "logan-lab-06",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) lab-06-tcp-chat-server ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganlsr/lab-06-tcp-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganlsr/lab-06-tcp-chat/issues"
+  },
+  "homepage": "https://github.com/loganlsr/lab-06-tcp-chat#readme"
+}
